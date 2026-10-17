@@ -1,186 +1,394 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  MR BEAN — CREATIVE DEVELOPER & ARCHITECT         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="./assets/hero.svg" alt="MR BEAN — Creative Developer"/>
+  <!-- Dynamic Deep Neon Purple Venom Banner Header -->
+  <a href="https://github.com/mrbean_0009">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:090214,35:1a062e,70:58119e,100:b026ff&text=MR%20BEAN&fontSize=74&fontColor=ffffff&fontAlignY=42&desc=CREATIVE%20DEVELOPER%20%7C%20DIGITAL%20ARCHITECT&descSize=16&descAlignY=62&animation=fadeIn&stroke=b026ff&strokeWidth=1.5" alt="MR BEAN Banner"/>
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=DEDCFF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Digital+Experiences;Full-Stack+Web+Development;Discord+Bot+Engineering;Creative+Design+%2B+Technology;Always+Learning.+Always+Building." alt="Animated introduction"/>
+  <!-- Animated Typing Intro (Option 1: Full-Stack & Creative Focus - Deep Neon Purple) -->
+  <a href="https://github.com/mrbean_0009">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=B026FF&center=true&vCenter=true&width=750&lines=%E2%96%B8+Crafting+High-Performance+Web+Architectures;%E2%96%B8+Full-Stack+Developer+%26+Creative+Technologist;%E2%96%B8+Specialized+in+Discord+Bots+%26+Intelligent+Automations;%E2%96%B8+Turning+Complex+Problems+into+Clean+Code;%E2%96%B8+Always+Learning.+Always+Building." alt="Animated typing tagline"/>
+  </a>
 
-<br/>
+  <br/><br/>
 
-<a href="https://github.com/mrbean_0009?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2F27CE?style=for-the-badge&logo=github&logoColor=FBFBFE" alt="Explore Projects"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-050315?style=for-the-badge&logo=github&logoColor=DEDCFF&labelColor=050315&color=433BFF" alt="Follow my journey"/></a>
+  <!-- Interactive Call-To-Action Badges -->
+  <a href="https://github.com/mrbean_0009?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-B026FF?style=for-the-badge&logo=github&logoColor=090214" alt="Explore Projects"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mrbean_0009">
+    <img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-120324?style=for-the-badge&logo=github&logoColor=B026FF&labelColor=120324&color=7928CA" alt="Follow my journey"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mrbean_0009&label=PROFILE%20VIEWS&color=433bff&style=flat-square&labelColor=050315" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/mrbean_0009?label=FOLLOWERS&style=flat-square&color=2f27ce&labelColor=050315" alt="GitHub followers"/>
-<img src="https://img.shields.io/badge/BASED%20IN-BANGLADESH-050315?style=flat-square&labelColor=050315&color=dedcff" alt="Based in Bangladesh"/>
-
-<br/><br/>
-
-<img width="100%" src="./assets/marquee.svg" alt="Full-stack · Web engineering · Discord bots · UI/UX · Automation · Creative tech"/>
+  <!-- Counter & Status Badges -->
+  <img src="https://komarev.com/ghpvc/?username=mrbean_0009&label=PROFILE%20VIEWS&color=B026FF&style=flat-square&labelColor=120324" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mrbean_0009?label=FOLLOWERS&style=flat-square&color=8A2BE2&labelColor=120324" alt="GitHub followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BASED%20IN-BANGLADESH%20%F0%9F%87%A7%F0%9F%87%A9-120324?style=flat-square&labelColor=120324&color=B026FF" alt="Based in Bangladesh"/>
 
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt=""/>
+<br/>
+
+<!-- Neon Divider Line (Deep Violet to Neon Purple Gradient) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
 
 ## ◈ 01 — About Me
 
-<img align="right" width="175" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" style="border-radius: 12px; margin-left: 20px; margin-bottom: 15px; border: 1px solid #7928ca;"/>
 
-I'm a developer passionate about transforming ideas into polished, functional, and engaging digital experiences.
+I'm a passionate developer dedicated to transforming complex ideas into polished, fast, and high-impact digital experiences. My work operates at the exact intersection of robust software engineering, refined modern UI design, intelligent automation, and creative technology.
 
-I explore the intersection of software engineering, modern web design, automation, and creative technology — building projects that combine functionality with thoughtful visual design.
-
-- ◈ **Focus:** Full-stack development & digital products
-- ◈ **Building:** Web applications and Discord bots
-- ◈ **Exploring:** Modern UI, automation & system design
-- ◈ **Interests:** Creative coding, Linux & open source
-- ◈ **Philosophy:** Build with purpose. Design with intention.
-- ◈ **Location:** Bangladesh 🇧🇩
+```yaml
+Name:        MR BEAN
+Focus:       Full-stack Development & Digital Products
+Building:    Production Web Apps, Discord Bots & Automation Suites
+Exploring:   System Architecture, Cyber-UI & Cloud Infrastructure
+Interests:   Creative Coding, Linux Ecosystem & Open Source
+Philosophy:  "Build with purpose. Design with intention."
+Location:    Bangladesh 🇧🇩
+Status:      🟣 Open for collaborations & creative engineering
+```
 
 <br clear="right"/>
 
-<div align="center">
+<br/>
 
-<img width="100%" src="./assets/slides.svg" alt="Animated slides: About, Focus, Building, Philosophy"/>
-
-</div>
-
-## ◈ 02 — My Focus Areas
-
-<div align="center">
-
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/01-FULL--STACK%20DEVELOPMENT-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="Full-stack development"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/02-WEB%20ENGINEERING-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="Web engineering"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/03-DISCORD%20BOTS-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="Discord bot development"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/04-UI%2FUX%20DESIGN-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="UI UX design"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/05-AUTOMATION-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="Automation"/></a>
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/06-CREATIVE%20TECH-0D0A2E?style=for-the-badge&labelColor=0D0A2E&color=433BFF" alt="Creative technology"/></a>
-
-</div>
-
-<img width="100%" src="./assets/divider.svg" alt=""/>
-
-## ◈ 03 — Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mrbean_0009?tab=repositories">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrbean_0009&repo=mrbean0009&bg_color=050315&border_color=2f27ce&title_color=dedcff&icon_color=433bff&text_color=c9c7f5" alt="Portfolio repository card"/>
-</a>
-<a href="https://github.com/shakinahmed9/nick-name-bot-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakinahmed9&repo=nick-name-bot-&bg_color=050315&border_color=2f27ce&title_color=dedcff&icon_color=433bff&text_color=c9c7f5" alt="Nickname bot repository card"/>
-</a>
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
 
 <br/>
 
-<a href="https://github.com/mrbean_0009?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-2F27CE?style=for-the-badge&logo=github&logoColor=FBFBFE" alt="View all repositories"/></a>
-
-</div>
-
-> **Note:** The portfolio card only works if `mrbean0009` is the actual repository name under `mrbean_0009`. Replace it with your real repo name if different.
-
-## ◈ 04 — Personal Gallery
+## ◈ 02 — Core Focus Areas
 
 <div align="center">
 
-<!--
-ADD YOUR PHOTOS HERE.
-1. Upload your images to the assets folder in your profile repository.
-2. Replace the example filenames below (gallery-01.jpg ... gallery-04.jpg).
--->
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/01-FULL--STACK%20DEVELOPMENT-120324?style=for-the-badge&labelColor=120324&color=B026FF" alt="Full-stack development"/>
+</a>
+&nbsp;
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/02-WEB%20ENGINEERING-120324?style=for-the-badge&labelColor=120324&color=8A2BE2" alt="Web engineering"/>
+</a>
+&nbsp;
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/03-DISCORD%20BOTS-120324?style=for-the-badge&labelColor=120324&color=B026FF" alt="Discord bot development"/>
+</a>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="./assets/gallery-01.jpg" width="100%" alt="Gallery photo 01"/>
-<br/><strong>01 / THE DEVELOPER</strong><br/><sub>Personal portrait</sub>
-</td>
-<td align="center" width="50%">
-<img src="./assets/gallery-02.jpg" width="100%" alt="Gallery photo 02"/>
-<br/><strong>02 / THE WORKSPACE</strong><br/><sub>My creative environment</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="./assets/gallery-03.jpg" width="100%" alt="Gallery photo 03"/>
-<br/><strong>03 / BEHIND THE CODE</strong><br/><sub>Development moments</sub>
-</td>
-<td align="center" width="50%">
-<img src="./assets/gallery-04.jpg" width="100%" alt="Gallery photo 04"/>
-<br/><strong>04 / THE CREATIVE SIDE</strong><br/><sub>Life beyond the screen</sub>
-</td>
-</tr>
+<br/><br/>
+
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/04-UI%2FUX%20DESIGN-120324?style=for-the-badge&labelColor=120324&color=7928CA" alt="UI UX design"/>
+</a>
+&nbsp;
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/05-AUTOMATION%20%26%20SYSTEMS-120324?style=for-the-badge&labelColor=120324&color=B026FF" alt="Automation"/>
+</a>
+&nbsp;
+<a href="https://github.com/mrbean_0009">
+  <img src="https://img.shields.io/badge/06-CREATIVE%20TECH-120324?style=for-the-badge&labelColor=120324&color=8A2BE2" alt="Creative technology"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 03 — Featured Projects Showcase
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="32%" align="center">◈ Project & Identity</th>
+      <th width="43%" align="left">◈ Architecture & Overview</th>
+      <th width="25%" align="center">◈ Stack & Access</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Project 01 -->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/mrbean_0009/mrbean0009">
+          <img src="https://img.shields.io/badge/PROJECT%2001-NEON%20PORTFOLIO-120324?style=for-the-badge&labelColor=120324&color=B026FF" alt="Project 01 Badge"/>
+        </a>
+        <br/><br/>
+        <strong>🌐 Cyber Portfolio & Brand</strong>
+        <br/>
+        <sub><code>mrbean_0009 / mrbean0009</code></sub>
+      </td>
+      <td align="left">
+        High-performance personal digital architect portfolio designed with ultra-sleek deep neon purple aesthetics, interactive animations, and responsive system integrations.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Status-Active%20Production-7928CA?style=flat-square&labelColor=120324" alt="Active Status"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,figma&theme=dark" height="26" alt="Stack"/>
+        <br/><br/>
+        <a href="https://github.com/mrbean_0009/mrbean0009">
+          <img src="https://img.shields.io/badge/CODE-B026FF?style=flat-square&logo=github&logoColor=090214" alt="View Repository"/>
+        </a>
+        &nbsp;
+        <a href="https://mrbean-dev.vercel.app">
+          <img src="https://img.shields.io/badge/LIVE-120324?style=flat-square&color=7928CA" alt="Live Demo"/>
+        </a>
+      </td>
+    </tr>
+    <!-- Project 02 -->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/shakinahmed9/nick-name-bot-">
+          <img src="https://img.shields.io/badge/PROJECT%2002-NICKNAME%20BOT-120324?style=for-the-badge&labelColor=120324&color=8A2BE2" alt="Project 02 Badge"/>
+        </a>
+        <br/><br/>
+        <strong>🤖 Discord Automation Suite</strong>
+        <br/>
+        <sub><code>shakinahmed9 / nick-name-bot-</code></sub>
+      </td>
+      <td align="left">
+        Intelligent Discord automation bot engineered for real-time member role synchronization, dynamic nickname structuring, and high-concurrency community management.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Status-Maintained-B026FF?style=flat-square&labelColor=120324" alt="Maintained Status"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,fastapi,redis,docker&theme=dark" height="26" alt="Stack"/>
+        <br/><br/>
+        <a href="https://github.com/shakinahmed9/nick-name-bot-">
+          <img src="https://img.shields.io/badge/CODE-8A2BE2?style=flat-square&logo=github&logoColor=ffffff" alt="View Repository"/>
+        </a>
+        &nbsp;
+        <a href="https://discord.gg/yourserver">
+          <img src="https://img.shields.io/badge/INVITE-120324?style=flat-square&color=B026FF" alt="Invite Bot"/>
+        </a>
+      </td>
+    </tr>
+    <!-- Project 03 -->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/mrbean_0009">
+          <img src="https://img.shields.io/badge/PROJECT%2003-API%20SERVICES-120324?style=for-the-badge&labelColor=120324&color=7928CA" alt="Project 03 Badge"/>
+        </a>
+        <br/><br/>
+        <strong>⚡ Cloud Engine & Microservices</strong>
+        <br/>
+        <sub><code>mrbean_0009 / cloud-services</code></sub>
+      </td>
+      <td align="left">
+        Distributed backend microservice architecture featuring lightweight REST/GraphQL endpoints, secure token auth, Redis caching layers, and CI/CD pipelines.
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Status-Open%20Source-8A2BE2?style=flat-square&labelColor=120324" alt="Open Source Status"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=go,postgres,graphql,docker&theme=dark" height="26" alt="Stack"/>
+        <br/><br/>
+        <a href="https://github.com/mrbean_0009">
+          <img src="https://img.shields.io/badge/CODE-7928CA?style=flat-square&logo=github&logoColor=ffffff" alt="View Repository"/>
+        </a>
+        &nbsp;
+        <a href="https://api.mrbean.dev/docs">
+          <img src="https://img.shields.io/badge/DOCS-120324?style=flat-square&color=8A2BE2" alt="API Docs"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
+<br/>
+
+<a href="https://github.com/mrbean_0009?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-B026FF?style=for-the-badge&logo=github&logoColor=090214" alt="View all repositories"/>
+</a>
+
 </div>
 
-<img width="100%" src="./assets/divider.svg" alt=""/>
+<br/>
 
-## ◈ 05 — Tech Stack
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 04 — Personal Gallery & Workspace
 
 <div align="center">
 
-**Languages**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mrbean_0009">
+        <img src="./assets/gallery-01.jpg" width="100%" onerror="this.src='https://images.unsplash.com/photo-1534972195531-a756b1126f24?w=600&auto=format&fit=crop&q=80'" alt="The Developer"/>
+      </a>
+      <br/>
+      <strong>01 / THE DEVELOPER</strong>
+      <br/>
+      <sub>Personal Portrait & Vision</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mrbean_0009">
+        <img src="./assets/gallery-02.jpg" width="100%" onerror="this.src='https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&auto=format&fit=crop&q=80'" alt="The Workspace"/>
+      </a>
+      <br/>
+      <strong>02 / THE WORKSPACE</strong>
+      <br/>
+      <sub>Creative Engineering Setup</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mrbean_0009">
+        <img src="./assets/gallery-03.jpg" width="100%" onerror="this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&auto=format&fit=crop&q=80'" alt="Behind the Code"/>
+      </a>
+      <br/>
+      <strong>03 / BEHIND THE CODE</strong>
+      <br/>
+      <sub>Architecture & Late Night Sprints</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mrbean_0009">
+        <img src="./assets/gallery-04.jpg" width="100%" onerror="this.src='https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&auto=format&fit=crop&q=80'" alt="The Creative Side"/>
+      </a>
+      <br/>
+      <strong>04 / THE CREATIVE SIDE</strong>
+      <br/>
+      <sub>Life Beyond the Terminal</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" alt="Programming languages"/>
-
-**Frontend & Design**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend technologies"/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" alt="Backend technologies"/>
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,vercel,cloudflare&theme=dark" alt="Development tools"/>
+<sub>*Place your custom photos in the <code>assets/</code> folder with names <code>gallery-01.jpg</code> to <code>gallery-04.jpg</code>.*</sub>
 
 </div>
 
-<sub>*Icons represent areas of interest and development. Adjust this list to the tools you actively use.*</sub>
+<br/>
 
-## ◈ 06 — GitHub Analytics
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 05 — Tech Stack & Arsenal
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrbean_0009&show_icons=true&include_all_commits=true&bg_color=050315&border_color=2f27ce&title_color=dedcff&icon_color=433bff&text_color=c9c7f5&ring_color=433bff" alt="GitHub statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=mrbean_0009&background=050315&border=2f27ce&ring=433bff&fire=dedcff&currStreakLabel=dedcff&sideLabels=c9c7f5&currStreakNum=fbfbfe&sideNums=fbfbfe&dates=8f8aff" alt="GitHub contribution streak"/>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" alt="Languages"/>
+</p>
 
-<br/><br/>
+### 🎨 Frontend & Design Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend & Design"/>
+</p>
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbean_0009&layout=compact&bg_color=050315&border_color=2f27ce&title_color=dedcff&text_color=c9c7f5&langs_count=8" alt="Most used programming languages"/>
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" alt="Backend & DB"/>
+</p>
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbean_0009&bg_color=050315&color=dedcff&line=433bff&point=fbfbfe&area=true&area_color=2f27ce&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=mrbean_0009&theme=darkhub&no-frame=true&margin-w=8&column=4" alt="GitHub trophies"/>
+### 🛠️ DevOps, Cloud & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,docker,vercel,cloudflare&theme=dark" alt="Tools & Deployment"/>
+</p>
 
 </div>
 
-## ◈ 07 — Contribution Animation
+<br/>
+
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 06 — GitHub Analytics & Metrics
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/mrbean_0009/mrbean_0009/output/github-snake.svg" alt="Animated GitHub contribution snake"/>
+  <a href="https://github.com/mrbean_0009">
+    <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=mrbean_0009&show_icons=true&hide_border=false&border_color=B026FF&bg_color=120324&title_color=B026FF&icon_color=7928CA&text_color=e9d5ff&ring_color=B026FF&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="https://streak-stats.demolab.com/?user=mrbean_0009">
+    <img width="48.5%" src="https://streak-stats.demolab.com/?user=mrbean_0009&hide_border=false&border=7928CA&background=120324&ring=B026FF&fire=B026FF&currStreakLabel=B026FF&sideLabels=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&dates=8A2BE2" alt="GitHub Streak"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/mrbean_0009">
+    <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbean_0009&layout=compact&hide_border=false&border_color=B026FF&bg_color=120324&title_color=B026FF&text_color=e9d5ff&langs_count=8" alt="Top Languages"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/mrbean_0009">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrbean_0009&bg_color=120324&color=B026FF&line=B026FF&point=ffffff&area=true&area_color=430d70&hide_border=false&border_color=B026FF&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution Activity Graph"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/mrbean_0009">
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mrbean_0009&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+  </a>
 
 </div>
 
-## ◈ 08 — Let's Connect
+<br/>
+
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 07 — Contribution Snake Animation
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake"/>
+</div>
+
+<br/>
+
+<!-- Neon Divider Line -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:090214,40:58119e,70:b026ff,100:090214" alt="Divider"/>
+
+<br/>
+
+## ◈ 08 — Let's Connect & Collaborate
 
 <div align="center">
 
-<a href="https://github.com/mrbean_0009"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-050315?style=for-the-badge&logo=github&logoColor=DEDCFF&labelColor=050315&color=433BFF" alt="GitHub"/></a>
-<a href="https://github.com/mrbean_0009?tab=repositories"><img src="https://img.shields.io/badge/Projects-Build%20Something-050315?style=for-the-badge&logo=github&logoColor=DEDCFF&labelColor=050315&color=433BFF" alt="Projects"/></a>
+  <a href="https://github.com/mrbean_0009">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-120324?style=for-the-badge&logo=github&logoColor=B026FF&labelColor=120324&color=B026FF" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/mrbean_0009?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Build%20Something-120324?style=for-the-badge&logo=github&logoColor=7928CA&labelColor=120324&color=7928CA" alt="Projects"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-*Open to meaningful collaborations, creative ideas, and interesting development projects.*
+  <p><em>"Open to meaningful collaborations, creative ideas, and ambitious development projects."</em><br/>
+  <strong>Have an idea? Let's build something exceptional together.</strong></p>
 
-<img width="100%" src="./assets/footer.svg" alt="Have an idea? Let's build something exceptional."/>
+  <br/>
+
+  <!-- Animated Pure Neon Purple Wave Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b026ff,50:430d70,100:090214&height=130&section=footer" alt="Footer Wave"/>
+
+  <sub>Designed with precision · Powered by curiosity · Built by <strong>MR BEAN</strong></sub>
 
 </div>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
